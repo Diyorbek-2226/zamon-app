@@ -24,8 +24,8 @@ function Contact() {
       return;
     }
 
-    const token = "6846219432:AAFbd1Cwyt5GywQ0jYssEbPKMbaNW50tOdI";
-    const chat_id = 6030007736;
+    const token = "7122251448:AAE4etYRV9AK0V2GgNlfGk2SwQAT-7dfKsc";
+    const chat_id = 6206390828;
     const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
     axios({
